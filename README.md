@@ -1,2 +1,2 @@
-# CE 888
+# CE-888 Lab Sessions
 Data Science and Decision Making Project
